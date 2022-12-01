@@ -5,5 +5,5 @@ int main(){
     int T;
     cin >> T;
 
-    cout << 24 - X << endl;
+    cout << 24 - T << endl;
 }
